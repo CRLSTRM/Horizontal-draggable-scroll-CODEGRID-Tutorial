@@ -30,6 +30,7 @@ img {
 
 nav {
     position: fixed;
+    z-index: 99;
     top: 0;
     width: 100vw;
     padding: 2rem;
